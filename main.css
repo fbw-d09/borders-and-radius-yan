@@ -1,0 +1,40 @@
+section
+{
+    border-top: 1px solid black ;
+    border-bottom: 1px solid black ;
+}
+
+#paragraph1, #paragraph2
+{
+    border-bottom: 1px solid red;
+}
+#border__dotted
+{
+    border: 1px dotted greenyellow;
+    border-width: 5px;
+    
+}
+#border__inset
+{
+    border: 2px inset red;
+}
+#border__crimson
+{
+    border:2px crimson green ;
+}
+img
+{
+    border-radius: 50%;
+}
+
+.user
+{
+    border-bottom: 1px solid red;   
+}
+
+button
+{
+    border: none;
+    background-color: chocolate;
+    border-radius: 5px;
+}
